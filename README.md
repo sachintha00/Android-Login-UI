@@ -1,6 +1,8 @@
 # Android-Login-UI
 Simple Mobile Login UI Design Android Studio with Java and XML
+
 The constraint layout used here.
+
 Some screen-shots running through the Pixel_2_API_25 emulator👇
 
 ![Screenshot_19](https://user-images.githubusercontent.com/80079235/130822819-38b383be-9fe2-4263-a35a-b11dd6c46e1d.png)
